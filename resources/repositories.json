@@ -1,0 +1,48 @@
+[
+    {
+        "company": "google",
+        "repositories":
+        [
+            {"language": "node",   "org": "googlecloudplatform", "name": "gcloud-node"},
+            {"language": "ruby",   "org": "googlecloudplatform", "name": "gcloud-ruby"},
+            {"language": "php",    "org": "googlecloudplatform", "name": "gcloud-php"},
+            {"language": "python", "org": "googlecloudplatform", "name": "gcloud-python"},
+            {"language": "java",   "org": "googlecloudplatform", "name": "gcloud-java"},
+            {"language": "dotnet", "org": "googlecloudplatform", "name": "gcloud-dotnet"},
+            {"language": "go",     "org": "googlecloudplatform", "name": "gcloud-go"}
+        ]
+    },
+    {
+        "company": "amazon",
+        "repositories":
+        [
+            {"language": "node",   "org": "aws",  "name": "aws-sdk-js"},
+            {"language": "ruby",   "org": "aws",  "name": "aws-sdk-ruby"},
+            {"language": "php",    "org": "aws",  "name": "aws-sdk-php"},
+            {"language": "python", "org": "boto", "name": "boto3"},
+            {"language": "java",   "org": "aws",  "name": "aws-sdk-java"},
+            {"language": "dotnet", "org": "aws",  "name": "aws-sdk-net"},
+            {"language": "go",     "org": "aws",  "name": "aws-sdk-go"}
+        ]
+    },
+    {
+        "company": "microsoft",
+        "repositories":
+        [
+            {"language": "node",   "org": "azure", "name": "azure-sdk-for-node"},
+            {"language": "node",   "org": "azure", "name": "azure-storage-node"},
+            {"language": "ruby",   "org": "azure", "name": "azure-sdk-ruby"},
+            {"language": "ruby",   "org": "azure", "name": "azure-sdk-for-ruby"},
+            {"language": "ruby",   "org": "azure", "name": "azure-storage-ruby"},
+            {"language": "php",    "org": "azure", "name": "azure-sdk-for-php"},
+            {"language": "php",    "org": "azure", "name": "azure-storage-php"},
+            {"language": "python", "org": "azure", "name": "azure-sdk-for-python"},
+            {"language": "python", "org": "azure", "name": "azure-storage-python"},
+            {"language": "java",   "org": "azure", "name": "azure-sdk-for-java"},
+            {"language": "java",   "org": "azure", "name": "azure-storage-java"},
+            {"language": "dotnet", "org": "azure", "name": "azure-sdk-for-net"},
+            {"language": "dotnet", "org": "azure", "name": "azure-storage-net"},
+            {"language": "go",     "org": "azure", "name": "azure-sdk-for-go"}
+        ]
+    }
+ ]
